@@ -1,0 +1,241 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-30 BZR 5308)-product   date = Di 09 Dez 2014 17:19:28 CET
+
+BeginCmp
+TimeStamp = /547E5C14;
+Reference = C1;
+ValeurCmp = C*;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E5BD5;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E5F27;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547FBCC2;
+Reference = C4;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E4F1B;
+Reference = C5;
+ValeurCmp = tant. 47u/10V;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeD_EIA-7343_Reflow;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E4F42;
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E58D2;
+Reference = C7;
+ValeurCmp = 47u/16;
+IdModule  = Capacitors_SMD:c_elec_6.3x7.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /547FD87D;
+Reference = C8;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547EA0AA;
+Reference = C9;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547FC530;
+Reference = C10;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547FC8CA;
+Reference = C11;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E9B6A;
+Reference = C12;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547FD7DA;
+Reference = C13;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547EA541;
+Reference = C14;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E4E01;
+Reference = D1;
+ValeurCmp = 1N4148;
+IdModule  = Diodes_SMD:Diode-MiniMELF_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /548724F0;
+Reference = IC1;
+ValeurCmp = PC817;
+IdModule  = TonisLibrary:SO-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /547DB6AC;
+Reference = P1;
+ValeurCmp = CONN_SENS;
+IdModule  = Connect:AK300-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /547DB738;
+Reference = P2;
+ValeurCmp = CONN_12V;
+IdModule  = Connect:AK300-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E4ABF;
+Reference = P3;
+ValeurCmp = CONN_OUTPUT;
+IdModule  = Connect:AK300-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /547FE0AC;
+Reference = P4;
+ValeurCmp = lvl high test;
+IdModule  = Measurement_Points:Measurement_Point_Round-SMD-Pad_Big;
+EndCmp
+
+BeginCmp
+TimeStamp = /547FE18D;
+Reference = P5;
+ValeurCmp = sens test;
+IdModule  = Measurement_Points:Measurement_Point_Round-SMD-Pad_Big;
+EndCmp
+
+BeginCmp
+TimeStamp = /547FE58E;
+Reference = P6;
+ValeurCmp = lvl low test;
+IdModule  = Measurement_Points:Measurement_Point_Round-SMD-Pad_Big;
+EndCmp
+
+BeginCmp
+TimeStamp = /547FF0AA;
+Reference = P7;
+ValeurCmp = gnd test;
+IdModule  = Measurement_Points:Measurement_Point_Round-SMD-Pad_Big;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E7689;
+Reference = Q1;
+ValeurCmp = BC817-40;
+IdModule  = SMD_Packages:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E5CA7;
+Reference = R1;
+ValeurCmp = 1k2;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E777A;
+Reference = R2;
+ValeurCmp = 68;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E75CF;
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /547EA056;
+Reference = RV1;
+ValeurCmp = 5k;
+IdModule  = Potentiometers:Potentiometer_WirePads_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E9B91;
+Reference = RV2;
+ValeurCmp = 5k;
+IdModule  = Potentiometers:Potentiometer_WirePads_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = /547EA61B;
+Reference = RV3;
+ValeurCmp = 5k;
+IdModule  = Potentiometers:Potentiometer_WirePads_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E55C9;
+Reference = U1;
+ValeurCmp = LM317_SOT223;
+IdModule  = SMD_Packages:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E4D95;
+Reference = U2;
+ValeurCmp = LD1117S50CTR;
+IdModule  = SMD_Packages:DPAK-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E93AE;
+Reference = U3;
+ValeurCmp = LM358;
+IdModule  = Sockets_DIP:DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /547EAE2A;
+Reference = U4;
+ValeurCmp = 74HC74;
+IdModule  = SMD_Packages:SOIC-14_W;
+EndCmp
+
+EndListe
