@@ -1074,4 +1074,6 @@ F 3 "" H 2250 3500 60  0000 C CNN
 	1    2250 3500
 	1    0    0    -1  
 $EndComp
+Text Notes 7600 3300 0    60   ~ 0
+TODO\nFlip-Flop muss auf 5V\nClamping/Spannungsteiler für FlipFlop-Eingang!\n
 $EndSCHEMATC
