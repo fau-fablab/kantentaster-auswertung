@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-31 BZR 5243)-product   date = Sa 28 Feb 2015 15:54:03 CET
+Cmp-Mod V01 Created by Cvpcb (2014-10-31 BZR 5243)-product   date = Do 05 Mär 2015 13:40:50 CET
 
 BeginCmp
 TimeStamp = /54ECF4A0;
@@ -32,6 +32,13 @@ BeginCmp
 TimeStamp = /54ED187B;
 Reference = C5;
 ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F850EE;
+Reference = C6;
+ValeurCmp = 10nF;
 IdModule  = Capacitors_SMD:C_0603;
 EndCmp
 
@@ -134,7 +141,14 @@ IdModule  = Resistors_SMD:R_0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /54ECFBC8;
+TimeStamp = /54F25C8A;
+Reference = R9;
+ValeurCmp = 200k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FF3A;
 Reference = U1;
 ValeurCmp = LM324;
 IdModule  = SMD_Packages:SOIC-14_N;
