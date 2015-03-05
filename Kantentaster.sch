@@ -88,8 +88,6 @@ F 3 "" H 2700 2050 60  0000 C CNN
 	1    2700 2050
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	2000 1850 3400 1850
 Connection ~ 2200 1850
 Connection ~ 2450 1850
 $Comp
@@ -264,7 +262,7 @@ Wire Wire Line
 Wire Wire Line
 	3250 3450 3250 3350
 Wire Wire Line
-	3050 2950 3250 2950
+	3250 2950 3050 2950
 $Comp
 L +12V #PWR09
 U 1 1 54ECFF88
@@ -287,10 +285,6 @@ F 3 "" H 3050 3450 60  0000 C CNN
 	1    3050 3450
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3250 2950 3250 2050
-Wire Wire Line
-	3250 2050 3400 2050
 $Comp
 L R R6
 U 1 1 54ED0203
@@ -512,10 +506,6 @@ F 3 "" H 3800 1050 30  0000 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3550 1050 3400 1050
-Wire Wire Line
-	3400 1050 3400 1850
-Wire Wire Line
 	4050 1050 4400 1050
 Wire Wire Line
 	4400 1050 4400 1950
@@ -543,4 +533,18 @@ F 3 "" H 5050 2350 60  0000 C CNN
 	1    5050 2350
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	2000 1850 3050 1850
+Connection ~ 3050 1850
+Wire Wire Line
+	3050 2050 3400 2050
+Wire Wire Line
+	3250 1050 3250 2950
+Wire Wire Line
+	3250 1850 3400 1850
+Wire Wire Line
+	3050 1850 3050 2050
+Wire Wire Line
+	3550 1050 3250 1050
+Connection ~ 3250 1850
 $EndSCHEMATC
