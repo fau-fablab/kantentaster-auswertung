@@ -20,3 +20,6 @@ Attached to this circuit is a Schmitt-trigger.
 The hysteresis levels are configurable, because the trigger has to be fine tuned "in field".
 
 Finally the output is separated from the controller with an optocoupler, because the sensor cable runs through a potentially rough environment.
+
+----------------------
+Further devolopment: https://github.com/ep092/Kantentaster
