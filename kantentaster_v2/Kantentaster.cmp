@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by Cvpcb (2014-10-31 BZR 5243)-product   date = Do 05 Mär 2015 13:40:50 CET
+
+BeginCmp
+TimeStamp = /54ECF4A0;
+Reference = C1;
+ValeurCmp = 10nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECF9A2;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECF4BF;
+Reference = C3;
+ValeurCmp = nc;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECFED6;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ED187B;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F850EE;
+Reference = C6;
+ValeurCmp = 10nF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ED0B4D;
+Reference = C7;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECF4E8;
+Reference = D1;
+ValeurCmp = ZENER_15V;
+IdModule  = Diodes_SMD:Diode-SMB_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1DF54;
+Reference = D2;
+ValeurCmp = ZENER_15V;
+IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ED0D5B;
+Reference = D3;
+ValeurCmp = ZENER_18V;
+IdModule  = Diodes_SMD:Diode-SMB_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECF3C9;
+Reference = P1;
+ValeurCmp = Anschluss Kantentaster;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1D48A;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECF831;
+Reference = R1;
+ValeurCmp = 100R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECF5EE;
+Reference = R2;
+ValeurCmp = 100R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECF43D;
+Reference = R3;
+ValeurCmp = 3k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECFD26;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ECFE78;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ED0203;
+Reference = R6;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54ED0ABC;
+Reference = R7;
+ValeurCmp = 1R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1DFD9;
+Reference = R8;
+ValeurCmp = 10R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F25C8A;
+Reference = R9;
+ValeurCmp = 200k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FF3A;
+Reference = U1;
+ValeurCmp = LM324;
+IdModule  = SMD_Packages:SOIC-14_N;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1D78F;
+Reference = U2;
+ValeurCmp = OPTO-TRANSISTOR4;
+IdModule  = toni:SO-4;
+EndCmp
+
+EndListe
