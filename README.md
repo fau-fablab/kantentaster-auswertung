@@ -22,4 +22,5 @@ The hysteresis levels are configurable, because the trigger has to be fine tuned
 Finally the output is separated from the controller with an optocoupler, because the sensor cable runs through a potentially rough environment.
 
 ----------------------
-Further devolopment: https://github.com/ep092/Kantentaster
+##version history
+The first version of the PCB is in directory ```kantentaster_platine```. This version did not work. A complete redesign and current development version is in ```kantentaster_v2```.
